@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Project-Udemy-1/static/css/main.a142fb8a.chunk.css",
+    "main.js": "/React-Project-Udemy-1/static/js/main.db1bb081.chunk.js",
+    "main.js.map": "/React-Project-Udemy-1/static/js/main.db1bb081.chunk.js.map",
+    "runtime-main.js": "/React-Project-Udemy-1/static/js/runtime-main.80a2a243.js",
+    "runtime-main.js.map": "/React-Project-Udemy-1/static/js/runtime-main.80a2a243.js.map",
+    "static/js/2.b4309f00.chunk.js": "/React-Project-Udemy-1/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/React-Project-Udemy-1/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/React-Project-Udemy-1/index.html",
+    "precache-manifest.5695d876b1245a1ef12c3317b5a3ae2c.js": "/React-Project-Udemy-1/precache-manifest.5695d876b1245a1ef12c3317b5a3ae2c.js",
+    "service-worker.js": "/React-Project-Udemy-1/service-worker.js",
+    "static/css/main.a142fb8a.chunk.css.map": "/React-Project-Udemy-1/static/css/main.a142fb8a.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/React-Project-Udemy-1/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80a2a243.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.a142fb8a.chunk.css",
+    "static/js/main.db1bb081.chunk.js"
+  ]
+}
